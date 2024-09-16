@@ -4,7 +4,6 @@
  * Programming Assignment 1
  */
 
-//package all;
 import java.util.Random;
 
 public class Game 
