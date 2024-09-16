@@ -9,3 +9,5 @@ The Knight piece can keep moving until it reaches the bottom right corner of the
 The respective player that moves the Knight to the bottom right corner of the board wins the game! 
 
 In this assignment, I implemented the winning strategy for player 1 only.
+
+A driver file (GameDriver.java) shows how the methods are called along with 10 test cases.
